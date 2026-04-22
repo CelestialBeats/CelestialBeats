@@ -13,8 +13,6 @@
 [![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Abdul+Rehman)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923409009182)
 
-![Profile Views](https://komarev.com/ghpvc/?username=CelestialBeats&style=flat-square&color=blue)
-
 </div>
 
 ---
